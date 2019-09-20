@@ -34,12 +34,17 @@ body, html {
     background-color: black;   
 }
 
+
 .green{
     background-color: green;
 }
 .right {
     float: right;
 }
+.left {
+    float: left;
+}
+
 #divider1 {
     height: 290px;
     width: 10px;
@@ -59,13 +64,14 @@ body, html {
 }
 
 #bigbox2 {
-    height: 90px;
+    height: 100px;
     width: 100px;
 }
 #divider3 {
     height: 10px;
     width: 400px;
 }
+
 
 #bigbox3 {
     height: 150px;
